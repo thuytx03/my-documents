@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "/CSharpPrograming",
+    "title": "Introduction",
+    "description": "Phần này sẽ giới thiệu về các ghi chú có trong này.",
+    "content": "## C# Programing Index Page.\n"
+  },
+  {
+    "slug": "/CSharpPrograming/note1",
+    "title": "Programing",
+    "description": "Các ghi chú bên trong",
+    "content": "## Note 1 page\n"
+  },
+  {
+    "slug": "/introduction/changelog",
+    "title": "Changelog",
+    "description": "ChangeLog Tổng hợp.",
+    "content": "## ChangeLog page\n"
+  },
+  {
+    "slug": "/introduction",
+    "title": "Introduction",
+    "description": "Phần này sẽ giới thiệu về các ghi chú có trong này.",
+    "content": "![Banner](/images/banner.png \"Documents\")\n\n## Hello, Phước!\n"
+  },
+  {
+    "slug": "/navigation",
+    "title": "Navigation",
+    "description": "How to build our your documents menu and navigations.",
+    "content": "## Chưa có nội dung ở đây.\n"
+  },
+  {
+    "slug": "/notes",
+    "title": "Introduction",
+    "description": "Các ghi chú bên trong",
+    "content": "## Các ghi chú bên trong 123\n"
+  },
+  {
+    "slug": "/Oracle/note1",
+    "title": "Programing",
+    "description": "Các ghi chú bên trong",
+    "content": "## Note Oracle page\n"
+  },
+  {
+    "slug": "/random",
+    "title": "Introduction",
+    "description": "This section provides an overview of Introduction.",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste dolorum tempore consectetur explicabo tempora provident quia maxime, molestiae, facilis aperiam et, error illum vel ullam? Quis architecto dolore ullam\n\n* \\[x] Write the press release\n* \\[ ] Update the website\n* \\[ ] Contact the media\n\n| Syntax        | Description |   Test Text |\r\n| :------------ | :---------: | ----------: |\r\n| Header        |    Title    | Here's this |\r\n| Paragraph     |    Text     |    And more |\r\n| Strikethrough |             |    ~~Text~~ |\n\n## Getting Started\n\nTo begin using the Documentation Template, follow these simple steps:\n\n* Start by cloning the repository to your local machine.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quae iure nulla deserunt dolore quam pariatur minus sapiente accusantium. Optio, necessitatibus sequi. Veritatis, aspernatur? Possimus quis repellat eum vitae eveniet.\n\n## Blockquotes\n\nBlockquotes are useful for emphasizing key points or quoting external sources:\n\n> \"Documentation is a love letter that you write to your future self.\" - Damian Conway\n\nFeel free to use blockquotes to highlight important information or quotes relevant to your documentation.\n\n## Code Examples with switch\n\nHere a custom tab component from shadcn ui is used.\n\n## Conclusion\n\nAdding some random stuff to change the code\n"
+  },
+  {
+    "slug": "/structure/deeper/even-deeper",
+    "title": "Introduction",
+    "description": "This section provides an overview of Introduction.",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste dolorum tempore consectetur explicabo tempora provident quia maxime, molestiae, facilis aperiam et, error illum vel ullam? Quis architecto dolore ullam\n\n* \\[x] Write the press release\n* \\[ ] Update the website\n* \\[ ] Contact the media\n\n| Syntax        | Description |   Test Text |\r\n| :------------ | :---------: | ----------: |\r\n| Header        |    Title    | Here's this |\r\n| Paragraph     |    Text     |    And more |\r\n| Strikethrough |             |    ~~Text~~ |\n\n<CardGrid>\n  <Card title=\"Page Structure\" href=\"/docs/deep/deeper\" icon=\"alignJustify\" variant=\"small\" description=\"test description\" />\n\n  <Card title=\"Page Structure\" href=\"/docs/deep/deeper\" icon=\"alignJustify\" variant=\"small\" />\n\n  <Card title=\"Rubix Studios\" href=\"https://www.rubixstudios.com.au\" icon=\"alignJustify\" external={true} variant=\"small\" />\n\n  <Card title=\"Rubix Studios\" href=\"https://www.rubixstudios.com.au\" image=\"/images/og-image.png\" external={true} variant=\"image\" />\n</CardGrid>\n"
+  },
+  {
+    "slug": "/structure/deeper",
+    "title": "Introduction",
+    "description": "This section provides an overview of Introduction.",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste dolorum tempore consectetur explicabo tempora provident quia maxime, molestiae, facilis aperiam et, error illum vel ullam? Quis architecto dolore ullam\n\n* \\[x] Write the press release\n* \\[ ] Update the website\n* \\[ ] Contact the media\n\n| Syntax        | Description |   Test Text |\r\n| :------------ | :---------: | ----------: |\r\n| Header        |    Title    | Here's this |\r\n| Paragraph     |    Text     |    And more |\r\n| Strikethrough |             |    ~~Text~~ |\n\n## Getting Started\n\nTo begin using the Documentation Template, follow these simple steps:\n\n* Start by cloning the repository to your local machine.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quae iure nulla deserunt dolore quam pariatur minus sapiente accusantium. Optio, necessitatibus sequi. Veritatis, aspernatur? Possimus quis repellat eum vitae eveniet.\n\n## Blockquotes\n\nBlockquotes are useful for emphasizing key points or quoting external sources:\n\n> \"Documentation is a love letter that you write to your future self.\" - Damian Conway\n\nFeel free to use blockquotes to highlight important information or quotes relevant to your documentation.\n\n## Code Examples with switch\n\nHere a custom tab component from shadcn ui is used.\n\n## Conclusion\n\nThank you for choosing the Documentation Template for your project. Whether you're documenting software, APIs, or processes, we're here to support you in creating clear and effective documentation. Happy documenting!\n\n## Tabs Example\n"
+  },
+  {
+    "slug": "/structure",
+    "title": "Structure",
+    "description": "This section provides an overview of Introduction.",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste dolorum tempore consectetur explicabo tempora provident quia maxime, molestiae, facilis aperiam et, error illum vel ullam? Quis architecto dolore ullam\n\n* \\[x] Write the press release\n* \\[ ] Update the website\n* \\[ ] Contact the media\n\n| Syntax        | Description |   Test Text |\r\n| :------------ | :---------: | ----------: |\r\n| Header        |    Title    | Here's this |\r\n| Paragraph     |    Text     |    And more |\r\n| Strikethrough |             |    ~~Text~~ |\n\n## Getting Started\n\nTo begin using the Documentation Template, follow these simple steps:\n\n* Start by cloning the repository to your local machine.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quae iure nulla deserunt dolore quam pariatur minus sapiente accusantium. Optio, necessitatibus sequi. Veritatis, aspernatur? Possimus quis repellat eum vitae eveniet.\n\n## Blockquotes\n\nBlockquotes are useful for emphasizing key points or quoting external sources:\n\n> \"Documentation is a love letter that you write to your future self.\" - Damian Conway\n\nFeel free to use blockquotes to highlight important information or quotes relevant to your documentation.\n\n## Code Examples with switch\n\nHere a custom tab component from shadcn ui is used.\n\n## Conclusion\n\nThank you for choosing the Documentation Template for your project. Whether you're documenting software, APIs, or processes, we're here to support you in creating clear and effective documentation. Happy documenting!\n"
+  }
+]
